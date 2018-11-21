@@ -7,4 +7,7 @@ class Songs
     @gnere = genre
   end
 
-end
+end  
+
+dude = Artist.new("Dude", "Dance")
+cool beans = Song.new
