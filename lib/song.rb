@@ -9,4 +9,4 @@ class Songs
 
 end
 
-dude = Artist.new("Dude")
+dude = Artist.new("Dude", "Dance")
