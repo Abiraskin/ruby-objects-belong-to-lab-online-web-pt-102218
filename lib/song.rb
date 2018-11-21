@@ -11,3 +11,4 @@ class Songs
 end
 
 dude = Artist.new("Dude", "Dance")
+cool beans = Song.new("Coll Beans")
