@@ -8,3 +8,5 @@ class Songs
   end
 
 end
+
+dude = Artist.new("Dude")
