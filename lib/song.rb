@@ -8,6 +8,3 @@ class Songs
   end
 
 end
-
-dude = Artist.new("Dude", "Dance")
-cool beans = Song.new("Cool Beans")
